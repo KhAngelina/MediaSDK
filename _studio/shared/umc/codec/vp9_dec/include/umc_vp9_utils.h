@@ -33,6 +33,7 @@
 
 namespace UMC_VP9_DECODER
 {
+    constexpr auto VP9_INVALID_REF_FRAME = -1;
     class VP9DecoderFrame;
 
     inline
